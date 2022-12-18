@@ -1,6 +1,8 @@
+<img src="https://github.com/jefferson-datascience/jefferson-datascience/blob/main/logo_estudos.jpg" alt="logo" style="zoom: 100%"/>
+
 ## Sobre Mim
 
-Olá! Seja Bem-Vindo ao meu GitHub! Meu nome é Jefferson Henrique e sou Mestre e Bacharel em Matemática e, no momento atual, tenho dedicação exclusiva ao estudo da Ciências de Dados. Aqui no meu Github Você vai encontrar meus projetos de Ciências de Dados que eu desenvolvo em que o foco desses projetos é resolver problemas de negócios.
+Olá! Seja Bem-Vindo ao meu GitHub! Meu nome é Jefferson Henrique e sou Mestre e Bacharel em Matemática e, no momento atual, tenho dedicação exclusiva ao estudo da Ciências de Dados. Aqui você vai encontrar meus projetos de Ciências de Dados que eu desenvolvo com foco em resolver problemas de negócios utilizando técnicas de análise exploratória de dados e de Machine Learning.
 
 ## Projetos Desenvolvidos
 
@@ -16,3 +18,26 @@ Olá! Seja Bem-Vindo ao meu GitHub! Meu nome é Jefferson Henrique e sou Mestre 
 
 **[Projeto Análise de Banco de Dados Olist:](https://github.com/jefferson-datascience/project_sql_analysis)** Nesse projeto, fomos contratados como Cientista de Dados para investigar o Banco de Dados da Olist com o objetivo de realizar uma análise para responder a várias rodadas de questões de negócio dada pelo CEO.
 
+
+## Ferramentas Utilizadas
+
+**Linguagem de Programação:** Python, SQL, Webscraping com Python.
+
+**FrameWork:** Flask, Streamlit.
+
+**Biblioteca de Visualização de Dados:** Seaborn, Matplotlib.
+
+**Bibliotecas de Machine Learning:** Sklearn, Scipy, XGBoost.
+
+**Bibliotecas de Extração de Dados:** Selenium, Beatiful Soup.
+
+**Bibliotecas Estatísticas:** StatsModels, Scipy.
+
+**Técnicas de Machine Learning:** Regressão Linear, Regressão Logística, Clusterização.
+
+**Versionamento de Código:** Git, GitHub.
+
+**Cloud:** Heroku.
+
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=jefferson-datascience&count_private=true)
