@@ -39,6 +39,8 @@ Olá! Seja Bem-Vindo ao meu GitHub! Meu nome é Jefferson Henrique e sou Mestre 
 
 **Técnicas de Machine Learning:** Regressão Linear, Regressão Logística, Clusterização.
 
+**Estatística:** Teste A/B
+
 **Versionamento de Código:** Git, GitHub.
 
 **Cloud:** Heroku, Render, Streamlit.
