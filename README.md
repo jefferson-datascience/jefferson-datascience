@@ -7,9 +7,10 @@ Olá! Seja Bem-Vindo ao meu GitHub! Meu nome é Jefferson Henrique e sou Mestre 
 ## Projetos Desenvolvidos
 
 **[Projeto House Rocket Company:](https://github.com/jefferson-datascience/project_insight_house_rocket)** Auxiliamos o CEO da Imobiliária House Rocket a encontrar os melhores imóveis para compra e revenda obtendo a maior lucratividade. 
+
 <sub>**keywords:** Python, Pandas, Numpy, Beautiful Soup, Streamlit, Heroku, Seaborn.</sub>
 
-**[Projeto StarJeans! Store:](https://github.com/jefferson-datascience/project_starjeans_store)**  Realizamos uma consultoria de Ciência de Dados para ajudar os donos desta empresa a tomarem a decisão de quais preços deviam ser estipulados, quais matérias-primas deviam ser adquiridas e quais os melhores estilos de calças deviam ser produzidos, utilizando a extração de dados e a análise exploratória desses dados extraídos das suas principais concorrentes que são a H&M e a Macy's. 
+**[Projeto StarJeans! Store:](https://github.com/jefferson-datascience/project_starjeans_store)**  Realizamos uma consultoria de Ciência de Dados para ajudar os donos desta empresa a tomarem a decisão de quais preços deviam ser estipulados, quais matérias-primas deviam ser adquiridas e quais os melhores estilos de calças deviam ser produzidos, utilizando a extração de dados e a análise exploratória desses dados extraídos das suas principais concorrentes que são a H&M e a Macy's.  
 <sub>**keywords:** Python, Pandas, Numpy, Selenium, Beautiful Soup, Streamlit, Heroku, Seaborn.</sub>
 
 **[Projeto Rossmann:](https://github.com/jefferson-datascience/project_rossmann)** Ajudamos o CFO da Rede Rossmann a montar o orçamento de reforma das lojas compreendendo a previsão de vendas das próximas 6 semanas de cada loja da Rede.
@@ -19,6 +20,9 @@ Olá! Seja Bem-Vindo ao meu GitHub! Meu nome é Jefferson Henrique e sou Mestre 
 **[Projeto Eletronic House - Conversão de Compras:](https://github.com/jefferson-datascience/project_eletronic_house/tree/main/conversion_page)** Nesse projeto, ajudamos o Product Manager da Eletronic House a determinar se valia a pena trocar a antiga página de vendas da empresa por uma nova página de vendas sem ocorrer muitas perdas no faturamento e nas vendas com o objetivo de aumentar as vendas de Teclado Bluetooth. A solução para esse projeto foi o desenvolvimento de um experimento estatístico utilizando técnicas de teste A/B.
 
 **[Projeto Eletronic House - Preenchimento Automático de Formulário:](https://github.com/jefferson-datascience/project_eletronic_house/tree/main/conversao_formulario_pagamento)** Dessa vez, na empresa Eletronic House, auxiliamos o Head de Designers a medir a efetividade de um novo dispositivo que realiza o preenchimento automático do formulário de pagamento. O objetivo final é determinar se o preenchimento automático interfere no aumento das compras. Para que esse problema fosse resolvido sem gerar grandes prejuízos para a empresa, nós utilizamos técnicas de teste A/B para trazer um solução.
+
+**[Projeto Universidade de Montana:](https://github.com/jefferson-datascience/project_university_montana)** A Universidade de Montana possui vários serviços ao aluno, incluindo o serviço de biblioteca que oferece alocação de salas de estudos, livros, computadores e entre outros. Para facilitar esse processo, a Universidade colocou um botão com o nome "Interact" em sua página que encaminha o aluno para uma webpage para que ele solicite esses serviço por meio da Internet, assim, evitando a sobrecarga dos funcionários da Biblioteca. Entretanto, o time de TI percebeu, depois de um tempo, que a taxa de cliques do botão "Interact" estava baixa.
+Portanto, com objetivo de aumentar a taxa de cliques desse botão, o time de TI sugeriu 4 possíveis novos títulos para o botão "Interact" que são "Connect", "Help", "Services", "Learn". Logo, para verificar a efetividade desses títulos e resolver o problema da taxa de cliques, nós utilizamos técnicas de teste A/B/n e Inferências Estatísticas para solucionar esse problema.
 
 **[Projeto Análise de Banco de Dados Olist:](https://github.com/jefferson-datascience/project_sql_analysis)** Nesse projeto, fomos contratados como Cientista de Dados para investigar o Banco de Dados da Olist com o objetivo de realizar uma análise para responder a várias rodadas de questões de negócio dada pelo CEO.
 
@@ -39,7 +43,7 @@ Olá! Seja Bem-Vindo ao meu GitHub! Meu nome é Jefferson Henrique e sou Mestre 
 
 **Técnicas de Machine Learning:** Regressão Linear, Regressão Logística, Clusterização.
 
-**Estatística:** Teste A/B
+**Estatística:** Teste A/B, Teste A/B/n
 
 **Versionamento de Código:** Git, GitHub.
 
