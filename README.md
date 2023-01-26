@@ -8,29 +8,50 @@ Meu nome é Jefferson Henrique, sou Mestre e Bacharel em Matemática. No momento
 
 Segue abaixo os projetos desenvolvidos e um teaser sobre o que foi desenvolvido.
 
+
 ## Projetos Desenvolvidos
 
-**[Projeto House Rocket Company:](https://github.com/jefferson-datascience/project_insight_house_rocket)** Nesse projeto, auxiliei o CEO da Imobiliária House Rocket a identificar os imóveis com preços abaixo do preço médio de mercado e definimos o preço de revenda, a partir de uma análise exploratória de dados. Além disso, construím um Dashboard com todas essas informações para o CEO acessar de onde quiser.
+
+**[Projeto House Rocket Company:](https://github.com/jefferson-datascience/project_insight_house_rocket)** Nesse projeto, para ajudar o CEO da Imobiliária House Rocket a encontrar ótimas oportunidades de negócio, foi desenvolvido uma Análise Exploratória e realizada uma Inteligência de Dados com o objetivo de obter os melhores imóveis para compra e determinar os melhores preços para revenda desses imóveis comprados de acordo com a sazonalidade. 
+<p>O custo estimado de Aquisição foi de US$ 4.094.212.008,00, o faturamento das vendas foi estimado em US$ 5.276.791.316,98 e, com isso, o lucro estimado é de US$ 1.182.579.308,98. Além disso, para otimizar o processo de consulta a esses dados, criei um Dashboard com todas informações que está disponível na nuvem para ser consultado bastando apenas ter um dispositivo móvel em mãos e Internet. Segue o link:</p> 
 
 <sub>**Ferramentas e Bibliotecas Utilizadas:** Python, Pandas, Numpy, Seaborn, Jupyter Notebook, Pycharm, Streamlit, Render.</sub>
 
-**[Projeto StarJeans! Store:](https://github.com/jefferson-datascience/project_starjeans_store)** Realizei uma consultoria de Ciência de Dados para ajudar os donos desta empresa a tomarem a decisão de quais preços deviam ser estipulados, quais matérias-primas deviam ser adquiridas e quais os melhores estilos de calças deviam ser produzidos, utilizando a extração de dados e a análise exploratória desses dados extraídos das suas principais concorrentes, que são a H&M e a Macy's.  
+
+**[Projeto StarJeans! Store:](https://github.com/jefferson-datascience/project_starjeans_store)** Nesse projeto, com o propósito de ajudar os donos da e-commerce de moda masculina StarJeans!Store a tomarem a decisão de quais preços deviam ser estipulados, quais matérias-primas deviam ser adquiridas e quais os melhores estilos deviam ser produzidos para as calças que desejam vender, foi desenvolvido dois scripts de Webscraping para extrair informações das suas duas principais concorrentes, que são a H&M e a Macy's e, a partir dessas informações, tomarem as melhores decisões. 
+<p>Além desses scripts, foi elaborado uma Análise Exploratória e uma Inteligência de Dados dessas informações extraídas com o foco de dar mais apoio na tomada de decisão de negócio. Para otimizar o processo de consulta a esses dados, criei um Dashboard com todas informações que está disponível na nuvem para ser consultado bastando apenas ter um dispositivo móvel em mãos e Internet. Segue o link:</p>  
+
 <sub>**Ferramentas e Bibliotecas Utilizadas:** Python, Pandas, Numpy, Selenium, Beautiful Soup, Streamlit, Render, Seaborn.</sub>
 
-**[Projeto Rossmann:](https://github.com/jefferson-datascience/project_rossmann)** Realizei a previsão das vendas das próximas 6 semanas de cada loja da Rede Rossmann com o objetivo de ajudar o CFO a montar o orçamento da reforma de cada uma dessas lojas. Para isso, utilizei o aprendizado de máquina sobre modelos preditivos e, também, construi um BOT no Telegram para que o serviço de previsão de vendas pudesse ser usado de qualquer lugar pelo CFO colocando apenas o número de identificação da loja, assim, otimizando o processo de tomada de decisão.
+
+**[Projeto Rossmann:](https://github.com/jefferson-datascience/project_rossmann)** Nesse projeto, desenvolvi um modelo de previsão de vendas para a rede de Drogarias Rossmann que retorna o valor estimado das vendas das próximas 6 semanas das lojas da rede, sendo que o propósito final desse modelo é ajudar o CFO a montar o orçamento da reforma de cada uma dessas lojas tendo o conhecimento de quanto dinheiro terá em caixa. O retorno financeiro estimado para a rede com esse modelo ficou em torno de US$ 286.474.432,00 de faturamento com um margem de erro de US$ 1.000,00.
+  <p>Para isso, utilizei o aprendizado de máquina sobre modelos preditivos, técnicas de análise exploratória e habilidade de extração e limpeza de dados. Além disso, para otimizar o processo de consulta a essas previsões construi um BOT no Telegram que, colocando apenas o número de identificação da loja é possível saber a previsão de vendas desses estabelecimentos. Logo, todas essas informações estão de fácil acesso bastando apenas ter um dispositivo móvel, internet e o Telegram instalado no dispositivo. Segue o link para acessar o BOT do Telegram:</p> 
 
 <sub>**Ferramentas e Bibliotecas Utilizadas:** Python, Análise de Regessão, Modelos Preditivos(RandomForestRegressor, XGBoostRegressor), Aprendizagem de Máquina Supervisionado, Jupyter Notebook, Render.</sub>
 
-**[Projeto Insurance All Cross-Sell:](https://github.com/jefferson-datascience/project_health_insurance_cross_sell)** Ajudei a equipe de vendas da Empresa Insurance All com a otimização do processo de prospecção de novos clientes para um novo produto que a empresa está oferecendo. A solução foi a criação de um modelo que realiza a classificação ranqueada dos clientes com maior propensão de compra desse novo produto. Além disso, para otimizar o processo da equipe de vendas, criei um botão no AppScript da Planilha Sheets em que, uma vez passados os dados corretamente dos clientes para essa Planilha, basta um clique nesse botão para a planilha realizar uma requisição ao modelo via API para que ele retorne os clientes ranqueados na planilha e esteja pronto para a equipe de vendas usar.
+
+**[Projeto Insurance All Cross-Sell:](https://github.com/jefferson-datascience/project_health_insurance_cross_sell)** Ajudei a equipe de vendas da Empresa Insurance All com a otimização do processo de prospecção de novos clientes para um novo produto que a empresa está oferecendo. A solução foi o desenvolvimento de um modelo de classificação rankeada que determina quais seriam os clientes com maior propensão de adquirir esse novo produto que a empresa estava introduzindo no seu portfólio de seguros. Com o modelo de classificação tendo um Recall at k de 99%, um Precision at k de 23% e uma equipe de vendas com uma capacidade de 20.000 ligações, estimou-se que 900 clientes interessados seriam atingidos gerando um faturamento de Rs(Rublos) 4.500.000
+  <p>Além disso, para otimizar o processo de prospecção de novos clientes, criei um botão no AppScript da Planilha Sheets em que, uma vez passados os dados dos clientes corretamente para essa Planilha, basta um clique nesse botão para a planilha realizar uma requisição ao modelo via API para que ele retorne os clientes ranqueados na planilha e esteja pronto para a equipe de vendas usar. Segue o link da planilha com os dados e o botão de predição "Get Prediction":</p>
   
 <sub>**Ferramentas e Bibliotecas Utilizadas:** Python, SQL, Análise de Regessão Logística, Modelos Classificação(RandomForestClassifier, XGBoostClassifier, Logistic Regressor, KNN Model, ExtraTreesClassifier), Aprendizagem de Máquina Supervisionado, Jupyter Notebook, Render.</sub>
   
-**[Projeto Eletronic House - Conversão de Compras:](https://github.com/jefferson-datascience/project_eletronic_house/tree/main/conversion_page)** Nesse projeto, ajudamos o Product Manager da Eletronic House a determinar se valia a pena trocar a antiga página de vendas da empresa por uma nova página de vendas sem ocorrer muitas perdas no faturamento e nas vendas com o objetivo de aumentar as vendas de Teclado Bluetooth. A solução para esse projeto foi o desenvolvimento de um experimento estatístico utilizando técnicas de teste A/B.
+
+**[Projeto Eletronic House - Conversão de Compras:](https://github.com/jefferson-datascience/project_eletronic_house/tree/main/conversion_page)** Nesse projeto, o objetivo do Product Manager da e-commerce de eletrônicos Eletronic House era aumentar as vendas de Teclados Bluetooth. Assim, a equipe de desing desenvolveu uma nova página de vendas. Para determinar se valia a pena trocar a antiga página de vendas da empresa essa nova página sem ocorrer muitas perdas no faturamento foi desenvovlido um experimento estatístico utilizando técnicas de teste A/B. 
+<p>A conclusão do teste foi que a nova página de vendas era melhor que a antiga com uma taxa de conversão de 0.8%, acarretando, um aumento estimado de R$ 3.600.000,00 no faturamento da empresa.</p> 
+
+<sub>**Ferramentas e Bibliotecas Utilizadas:** Python, Scipy, StatsModels, Numpy</sub>
+
 
 **[Projeto Eletronic House - Preenchimento Automático de Formulário:](https://github.com/jefferson-datascience/project_eletronic_house/tree/main/conversao_formulario_pagamento)** Dessa vez, na empresa Eletronic House, auxiliamos o Head de Designers a medir a efetividade de um novo dispositivo que realiza o preenchimento automático do formulário de pagamento. O objetivo final é determinar se o preenchimento automático interfere no aumento das compras. Para que esse problema fosse resolvido sem gerar grandes prejuízos para a empresa, nós utilizamos técnicas de teste A/B para trazer um solução.
 
+<sub>**Ferramentas e Bibliotecas Utilizadas:** Python, Scipy, StatsModels, Numpy</sub>
+
+
 **[Projeto Universidade de Montana:](https://github.com/jefferson-datascience/project_university_montana)** A Universidade de Montana possui vários serviços ao aluno, incluindo o serviço de biblioteca que oferece alocação de salas de estudos, livros, computadores e entre outros. Para facilitar esse processo, a Universidade colocou um botão com o nome "Interact" em sua página que encaminha o aluno para uma webpage para que ele solicite esses serviço por meio da Internet, assim, evitando a sobrecarga dos funcionários da Biblioteca. Entretanto, o time de TI percebeu, depois de um tempo, que a taxa de cliques do botão "Interact" estava baixa.
 Portanto, com objetivo de aumentar a taxa de cliques desse botão, o time de TI sugeriu 4 possíveis novos títulos para o botão "Interact" que são "Connect", "Help", "Services", "Learn". Logo, para verificar a efetividade desses títulos e resolver o problema da taxa de cliques, nós utilizamos técnicas de teste A/B/n e Inferências Estatísticas para solucionar esse problema.
+
+<sub>**Ferramentas e Bibliotecas Utilizadas:** Python, Scipy, StatsModels, Numpy</sub>
+
 
 **[Projeto Análise de Banco de Dados Olist:](https://github.com/jefferson-datascience/project_sql_analysis)** Nesse projeto, fomos contratados como Cientista de Dados para investigar o Banco de Dados da Olist com o objetivo de realizar uma análise para responder a várias rodadas de questões de negócio dada pelo CEO.
 
@@ -40,6 +61,8 @@ Portanto, com objetivo de aumentar a taxa de cliques desse botão, o time de TI 
 **Linguagem de Programação:** Python, SQL, Webscraping com Python.
 
 **FrameWork:** Flask, Streamlit.
+
+**DataViz:** Tableau, MetaBase.
 
 **Biblioteca de Visualização de Dados:** Seaborn, Matplotlib.
 
@@ -55,7 +78,7 @@ Portanto, com objetivo de aumentar a taxa de cliques desse botão, o time de TI 
 
 **Versionamento de Código:** Git, GitHub.
 
-**Cloud Computing:** Heroku, Render, Streamlit.
+**Cloud Computing:** Heroku, Render, Streamlit, AWS.
 
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=jefferson-datascience&count_private=true)
