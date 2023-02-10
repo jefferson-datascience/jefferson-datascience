@@ -13,7 +13,7 @@ Segue abaixo os projetos desenvolvidos e um teaser sobre o que foi desenvolvido.
 
 
 **[Projeto House Rocket Company:](https://github.com/jefferson-datascience/project_insight_house_rocket)** Nesse projeto, para ajudar o CEO da Imobiliária House Rocket a encontrar ótimas oportunidades de negócio, foi desenvolvido uma Análise Exploratória e realizada uma Inteligência de Dados com o objetivo de obter os melhores imóveis para compra e determinar os melhores preços para revenda desses imóveis comprados de acordo com a sazonalidade. 
-<p>O custo estimado de Aquisição foi de US$ 4.094.212.008,00, o faturamento das vendas foi estimado em US$ 5.276.791.316,98 e, com isso, o lucro estimado é de US$ 1.182.579.308,98. Além disso, para otimizar o processo de consulta a esses dados, criei um Dashboard com todas informações que está disponível na nuvem para ser consultado bastando apenas ter um dispositivo móvel em mãos e Internet. Segue o link: https://jefferson-datascience-dashboard-house-rocket-company-app-okc3ea.streamlit.app/</p> 
+<p>O custo estimado de Aquisição foi de US$ 4.094.212.008,00, o faturamento das vendas foi estimado em US$ 5.276.791.316,98 e, com isso, o lucro estimado é de US$ 1.182.579.308,98. Além disso, para otimizar o processo de consulta a esses dados, criei um Dashboard com todas informações que está disponível na nuvem para ser consultado bastando apenas ter um dispositivo móvel em mãos e Internet. Segue o link:https://jefferson-datascience-dashboard-house-rocket-company-app-3k3nq6.streamlit.app/</p> 
 
 <sub>**Ferramentas e Bibliotecas Utilizadas:** Python, Pandas, Numpy, Seaborn, Jupyter Notebook, Pycharm, Streamlit, Render.</sub>
 
