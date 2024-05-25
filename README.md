@@ -1,5 +1,3 @@
-<img src="https://github.com/jefferson-datascience/jefferson-datascience/blob/main/logo_estudos.jpg" alt="logo" style="zoom: 100%"/>
-
 ## Sobre Mim
 
 Olá! Seja Bem-Vindo ao meu GitHub! 
