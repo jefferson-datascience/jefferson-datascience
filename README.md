@@ -4,7 +4,7 @@
 
 Olá! Seja Bem-Vindo ao meu GitHub! 
 
-Meu nome é Jefferson Henrique, sou Mestre e Bacharel em Matemática. No momento atual, tenho dedicação exclusiva ao estudo da Ciências de Dados e, aqui, você vai encontrar meus projetos de Ciências de Dados que eu desenvolvo com o objetivo de aprimorar as minhas habilidades, técnicas e ferramentas de resolver problemas de negócios utilizando análise exploratória de dados, inteligência de dados e negócio, e, Machine Learning. 
+Meu nome é Jefferson Henrique, sou Mestre e Bacharel em Matemática e Cientista de Dados. Nesse repositótio, você vai encontrar meus projetos de Ciências de Dados que eu desenvolvo com o objetivo de aprimorar as minhas habilidades, técnicas e ferramentas de resolver problemas de negócios utilizando análise exploratória de dados, inteligência de dados e negócio, e, Machine Learning. 
 
 Segue abaixo os projetos desenvolvidos e um teaser sobre o que foi desenvolvido.
 
